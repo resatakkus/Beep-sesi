@@ -1,0 +1,7 @@
+C:\Users\pc\Desktop\School\C#\Bip Sesi\Bip Sesi\bin\Debug\Bip Sesi.exe.config
+C:\Users\pc\Desktop\School\C#\Bip Sesi\Bip Sesi\bin\Debug\Bip Sesi.exe
+C:\Users\pc\Desktop\School\C#\Bip Sesi\Bip Sesi\bin\Debug\Bip Sesi.pdb
+C:\Users\pc\Desktop\School\C#\Bip Sesi\Bip Sesi\obj\Debug\Bip Sesi.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\School\C#\Bip Sesi\Bip Sesi\obj\Debug\Bip Sesi.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\School\C#\Bip Sesi\Bip Sesi\obj\Debug\Bip Sesi.exe
+C:\Users\pc\Desktop\School\C#\Bip Sesi\Bip Sesi\obj\Debug\Bip Sesi.pdb
